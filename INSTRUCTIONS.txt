@@ -1,7 +1,4 @@
-Anti-Scammer Toolset - Version 4.0
-
-Subscribe: https://www.youtube.com/c/malcolmmerlynglobal
-
+#####
 
 
 PROGRAM INFORMATION
@@ -85,3 +82,5 @@ Pressing ESC and R will bring up the ReactOS upgrade prompt. ReactOS Upgrade pro
 
 
 You can use a combination of all of the above, if too many pictures spawn the Virtual Machine will become very slow to the point where its unusable.
+
+#######
